@@ -1,0 +1,46 @@
+body{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    gap: 15px;
+}
+
+
+
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+    gap: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+h1{
+    color: blueviolet;
+}
+
+footer{
+        color: blueviolet;
+        background-color: black;
+        text-align: center;
+        padding: 15px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        gap: 15px;
+    
+}
